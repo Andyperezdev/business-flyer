@@ -1,0 +1,71 @@
+
+body{
+background-color: black;
+color: white;
+width: 100%;
+
+}
+
+hr{
+
+}
+
+
+.container{
+  margin-top: 15%;
+  margin-left: 20%;
+}
+
+
+
+
+.statistics{
+
+}
+
+.text{
+
+  height: 335px;
+  width: 450px;
+  text-align: center;
+  background-color: #06113C;
+  display: inline-block;
+
+
+}
+
+.image{
+  height: 300px;
+  position: absolute;
+
+  display: inline-block;
+}
+
+.banner{
+  height: 335px;
+  width: 420px;
+}
+
+/* IDs */
+
+
+#title{
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 29px;
+  width: 310px;
+  text-align: left;
+  margin-top: 12%;
+  margin-left: 15%;
+  margin-bottom: 20px;
+}
+
+#parag{
+  font-family: 'Inter';
+  font-size: 13px;
+  width: 320px;
+  margin-left: 15%;
+  text-align: left;
+  line-height: 1.5;
+}
